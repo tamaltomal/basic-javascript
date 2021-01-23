@@ -48,7 +48,7 @@ function megaFriend(names){
     else{
         for(let i = 0; i < names.length; i++){
             if(typeof(names[i]) != 'string'){
-                return "Please enter valid string as names."; //Detecting pakna person
+                return "Please enter valid string as names."; //Detecting snkeay person
                 break;
             }
         }
